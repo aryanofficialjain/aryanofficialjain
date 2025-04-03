@@ -6,23 +6,28 @@ import Link from "next/link"
 import Image from "next/image"
 
 export default function Portfolio() {
+
+  
+
   const [activeSection, setActiveSection] = useState("home")
 
   const [submitted, setSubmitted] = useState(false);
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const formData = new FormData(e.target);
-
+    const form = e.target as HTMLFormElement; // Type assertion
+  
+    const formData = new FormData(form);
+  
     const response = await fetch("https://formspree.io/f/mqapybnb", {
       method: "POST",
       body: formData,
       headers: { Accept: "application/json" },
     });
-
+  
     if (response.ok) {
       setSubmitted(true);
-      e.target.reset();
+      form.reset();
     }
   };
 
@@ -285,11 +290,8 @@ export default function Portfolio() {
                     <ExternalLink className="h-4 w-4" /> Demo
                   </a>
                 )}
-                {project.code && project.code !== "#" && (
-                  <a href={project.code} target="_blank" className="text-purple-400 hover:text-purple-300 flex items-center gap-1 text-sm">
-                    <Github className="h-4 w-4" /> Code
-                  </a>
-                )}
+                
+                
               </div>
             </div>
           </div>
