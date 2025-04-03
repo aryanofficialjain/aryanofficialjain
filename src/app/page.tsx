@@ -121,7 +121,7 @@ export default function Portfolio() {
              </span>
             </h1>
             <p className="text-xl mb-8 text-gray-300">
-              Developer <br/>   the guy you're looking for ....
+              Developer <br/>   the guy you re looking for ....
             </p>
             <div className="flex gap-4 justify-center">
               <Link
@@ -140,42 +140,7 @@ export default function Portfolio() {
           </div>
         </div>
 
-        <div className="mt-12 flex justify-center gap-6">
-          {/* GitHub */}
-          <a href="https://github.com/aryanofficialjain/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Github className="h-6 w-6" />
-          </a>
-
-          {/* Instagram */}
-          <a href="https://www.instagram.com/aryanofficialjain/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Instagram className="h-6 w-6" />
-          </a>
-
-          {/* YouTube */}
-          <a href="https://www.youtube.com/@aryanofficialjain" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Youtube className="h-6 w-6" />
-          </a>
-
-          {/* LinkedIn */}
-          <a href="https://www.linkedin.com/in/aryanofficialjain/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Linkedin className="h-6 w-6" />
-          </a>
-
-          {/* Twitter */}
-          <a href="https://twitter.com/jaryanofficial" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Twitter className="h-6 w-6" />
-          </a>
-
-          {/* Game Icon */}
-          <a href="https://aryanofficialjain.itch.io/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Gamepad2 className="h-6 w-6" />
-          </a>
-
-          {/* Email */}
-          <a href="mailto:aryanofficialjain@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors">
-            <Mail className="h-6 w-6" />
-          </a>
-        </div>
+    
         <div className="absolute mt-1 bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-500 to-transparent">
           
         </div>
@@ -206,7 +171,7 @@ export default function Portfolio() {
               </h2>
               <div className="space-y-4  text-gray-300">
                 <p>
-                I’ve been coding since 9th grade, turning my passion into reality. As a kid, I always wondered why Indian games weren’t like Tekken or GTA. Now, I’m the one building them—creating immersive games and innovative web experiences.
+                I have been coding since 9th grade, turning my passion into reality. As a kid, I always wondered why Indian games were not like Tekken or GTA. Now, I am the one building them—creating immersive games and innovative web experiences.
                 </p>
                 <p>
                 I specialize in web development with React, Next.js, Tailwind CSS, Node.js, Express, Nest.js, MongoDB, and TypeScript. 
