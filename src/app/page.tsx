@@ -176,14 +176,17 @@ export default function Portfolio() {
               </h2>
               <div className="space-y-4  text-gray-300">
                 <p>
-                I have been coding since 9th grade, turning my passion into reality. As a kid, I always wondered why Indian games were not like Tekken or GTA. Now, I am the one building them—creating immersive games and innovative web experiences.
+               I’ve been coding since 9th grade, turning my childhood passion for games into real, playable experiences. Growing up, I always wondered why Indian games never felt like Tekken or GTA—now I’m building those types of immersive, culturally-rich games myself.
                 </p>
                 <p>
-                I specialize in web development with React, Next.js, Tailwind CSS, Node.js, Express, Nest.js, MongoDB, and TypeScript. 
+                Web development is my profession; game development is my hobby and dream. When I’m not coding web apps with React or Next.js, I’m working in Unity and Unreal Engine to build games that tell indian stories. 
+
                 </p>
                 <p>
-                In game development, I work with Unreal Engine, Unity, C#, and C++ to build high-quality games.
+                I’m passionate about both worlds—web and games—and I’m always looking for new challenges that combine creativity with code.
                 </p>
+
+                <br/>
                 
               </div>
             </div>
