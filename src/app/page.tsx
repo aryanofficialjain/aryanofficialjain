@@ -109,7 +109,7 @@ export default function Portfolio() {
              </span>
             </h1>
             <p className="text-xl mb-8 text-gray-300">
-              Developer <br/>   the guy you re looking for ....
+             <b>Game Developer</b> <br/>  the guy you re looking for ....
             </p>
             <div className="flex gap-4 justify-center">
               <Link
