@@ -31,57 +31,40 @@ export default function Portfolio() {
     }
   };
 
-  const webProjects = [
-    {
-      title: "CAR BECHO",
-      description: "A seamless car dealership platform for buying, selling, and managing vehicles efficiently.",
-      image: "/assets/project-2.png",
-      tech: ["React Js", "Tailwind CSS", "Socket.IO", "Express Js", "Vercel", "Render", "Node Js", "MongoDb"],
-      demo: "https://car-dealership-frontend-indol.vercel.app/",
-      code: "https://github.com/aryanofficialjain/Car_dealership",
-    },
-    {
-      title: "CHAT KARO",
-      description: "A fast and secure messaging app for seamless real-time conversations.",
-      image: "/assets/project-1.png",
-      tech: ["Socket.IO", "Tailwind CSS", "React JS", "Vite", "Vercel"],
-      demo: "https://chat-app-with-filesharing.vercel.app/",
-      code: "https://github.com/aryanofficialjain/chat-app-with_filesharing",
-    },
-    {
-      title: "CRYPTO TRACKER",
-      description: "Real-time tracking of cryptocurrency prices, trends, and market insights.",
-      image: "/assets/project-3.png",
-      tech: ["React Js", "Tailwind CSS"],
-      demo: "https://real-time-cryptocurrency-tracker.vercel.app/",
-      code: "#",
-    },
-  ];
 
   const gameProjects = [
-    {
-      title: "NIGHT MARE",
-      description: "An intense action-fighting game where you battle and destroy relentless enemies in a dark, eerie world.",
-      image: "/assets/nightmare.png",
-      tech: ["Unity", "C#", "UNITY AI", "OOPS", "Game Design", "Animation","LOD", "Audio Manager", "Game Manager"
-      ],
-      demo: "https://aryanofficialjain.itch.io/papakipari",
-    },
-    {
-      title: "KHATA LAGA",
-      description: "A fun and addictive casual game where you dodge obstacles and collect rewards to survive as long as possible!",
-      image: "/assets/khatalaga.png",
-      tech: ["GameManager", "C#", "UNITY"],
-      demo: "https://aryanofficialjain.itch.io/katalaga",
-    },
-    {
-      title: "Parinda",
-      description: "A high-flying adventure where you navigate the skies, dodge obstacles, and soar to freedom!",
-      image: "/assets/parinda.png",
-      tech: ["Sprite Renderer", "UNITY", "C#"],
-      demo: "https://aryanofficialjain.itch.io/parinda",
-    },
-  ];
+  {
+    title: "Parinda",
+    description: "A high-flying adventure where you navigate the skies, dodge obstacles, and soar to freedom!",
+    image: "/assets/parinda.png",
+    tech: ["Sprite Renderer", "UNITY", "C#"],
+    demo: "https://aryanofficialjain.itch.io/parinda",
+  },
+  {
+    title: "KHATA LAGA",
+    description: "A fun and addictive casual game where you dodge obstacles and collect rewards to survive as long as possible!",
+    image: "/assets/khatalaga.png",
+    tech: ["GameManager", "C#", "UNITY"],
+    demo: "https://aryanofficialjain.itch.io/katalaga",
+  },
+  {
+    title: "NIGHT MARE",
+    description: "An intense action-fighting game where you battle and destroy relentless enemies in a dark, eerie world.",
+    image: "/assets/nightmare.png",
+    tech: [
+      "Unity",
+      "C#",
+      "UNITY AI",
+      "OOPS",
+      "Game Design",
+      "Animation",
+      "LOD",
+      "Audio Manager",
+      "Game Manager",
+    ],
+    demo: "https://aryanofficialjain.itch.io/papakipari",
+  },
+];
 
 
   return (
@@ -179,12 +162,10 @@ export default function Portfolio() {
                I’ve been coding since 9th grade, turning my childhood passion for games into real, playable experiences. Growing up, I always wondered why Indian games never felt like Tekken or GTA—now I’m building those types of immersive, culturally-rich games myself.
                 </p>
                 <p>
-                Web development is my profession; game development is my hobby and dream. When I’m not coding web apps with React or Next.js, I’m working in Unity and Unreal Engine to build games that tell indian stories. 
+                Game development is my hobby, passion and dream. I’m working in Unity and started learning Unreal Engine to build games that tell indian stories. 
 
                 </p>
-                <p>
-                I’m passionate about both worlds—web and games—and I’m always looking for new challenges that combine creativity with code.
-                </p>
+               
 
                 <br/>
                 
@@ -239,38 +220,7 @@ export default function Portfolio() {
       <span className="text-green-400">&gt;</span> Projects
     </h2>
 
-    {/* Web Projects */}
-    <div className="mb-10">
-      <h3 className="text-2xl font-bold mb-6 text-purple-400">Web Projects</h3>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {webProjects.map((project, index) => (
-          <div key={index} className="bg-gray-900 rounded-lg overflow-hidden border border-purple-900/50 hover:border-purple-500/50 transition-all hover:-translate-y-1">
-            <Image src={project.image} alt={project.title} width={400} height={200} className="w-full h-48 object-cover" />
-            <div className="p-4">
-              <h4 className="text-xl font-bold mb-2 text-purple-400">{project.title}</h4>
-              <p className="text-gray-300 mb-4">{project.description}</p>
-              <div className="flex flex-wrap gap-2 mb-4">
-                {project.tech.map((tech) => (
-                  <span key={tech} className="bg-purple-900/50 text-purple-300 text-xs px-2 py-1 rounded">{tech}</span>
-                ))}
-              </div>
-              <div className="flex gap-2">
-                {project.demo && project.demo !== "#" && (
-                  <a href={project.demo} target="_blank" className="text-green-400 hover:text-green-300 flex items-center gap-1 text-sm">
-                    <ExternalLink className="h-4 w-4" /> Demo
-                  </a>
-                )}
-                {project.code && project.code !== "#" && (
-                  <a href={project.code} target="_blank" className="text-purple-400 hover:text-purple-300 flex items-center gap-1 text-sm">
-                    <Github className="h-4 w-4" /> Code
-                  </a>
-                )}
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
+
 
     {/* Game Projects */}
     <div>
