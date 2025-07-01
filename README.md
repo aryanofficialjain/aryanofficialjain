@@ -8,9 +8,8 @@
 
 
 ### 🎮 Game Development
-- **Game Engines**: Unity (C#), Unreal Engine (Blueprints & C++ Basics)
+- **Game Engines**: Unity (C#)
 - **Mobile & WebGL Builds**: Android, Itch.io
-- **Tools**: Blender, Photogrammetry, Unity Asset Store, DaVinci Resolve (VFX Editing)
 
 ---
 
