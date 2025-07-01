@@ -32,7 +32,7 @@
 
 - 🌐 Portfolio: [Coming Soon]
 - 📷 Instagram: [@aryanofficialjain](https://www.instagram.com/aryanofficialjain)
-- 🐦 Twitter: [@aryanjain_dev](https://twitter.com/aryanjain_dev)
+- 🐦 Twitter: [@aryanjain_dev](https://twitter.com/jaryanofficial)
 - 🎮 Itch.io: [@aryangames](https://aryangames.itch.io)
 
 ---
