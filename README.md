@@ -21,7 +21,7 @@
 ---
 
 ## 🎯 Currently Working On
-- Developing an Unity Mechanism & story game with cinematic storytelling. - Cow boy Theme little like Red Dead Redemption II
+- Developing a 2d platformer named as Forgetful coming soon on google playstore
 - Vlogging my journey as a game dev on [@aryanofficialjain](https://www.youtube.com/@aryanofficialjain)
 - Building my dream game studio with a focus on Indian culture & global storytelling.
 
