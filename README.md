@@ -33,6 +33,7 @@
 - 📷 Instagram: [@aryanofficialjain](https://www.instagram.com/aryanofficialjain)
 - 🐦 Twitter: [@aryanjain_dev](https://twitter.com/jaryanofficial)
 - 🎮 Itch.io: [@aryangames](https://aryangames.itch.io)
+- 🎥 Youtube: [@aryanofficialjain](https://www.youtube.com/@aryanofficialjain)
 
 ---
 
