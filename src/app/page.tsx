@@ -1,11 +1,21 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
+import { useRouter } from "next/navigation"
 import { ChevronRight,  GamepadIcon as Controller, ExternalLink, Gamepad2, Github, Instagram, Linkedin, Mail, Twitter, Youtube } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 
 export default function Portfolio() {
+  const router = useRouter()
+
+  // Auto-redirect to forgetful game when someone visits the main URL
+  useEffect(() => {
+    // Check if this is a direct visit (not from navigation)
+    if (window.location.pathname === "/") {
+      router.push("/forgetful")
+    }
+  }, [router])
 
   
 
@@ -91,6 +101,12 @@ export default function Portfolio() {
                 {item}
               </a>
             ))}
+            <Link
+              href="/forgetful"
+              className="hover:text-purple-400 transition-colors text-purple-400"
+            >
+              Forgetful Game
+            </Link>
           </nav>
           <button className="md:hidden">
             <ChevronRight className="h-6 w-6" />
