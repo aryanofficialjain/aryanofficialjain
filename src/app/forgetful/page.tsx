@@ -1,7 +1,7 @@
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { CountdownTimer } from "@/components/countdown-timer"
-import { Play, Smartphone } from "lucide-react"
+import { Play } from "lucide-react"
 
 export default function GameLandingPage() {
   return (
