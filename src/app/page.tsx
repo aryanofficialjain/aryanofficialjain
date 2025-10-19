@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import { ChevronRight,  GamepadIcon as Controller, ExternalLink, Gamepad2, Github, Instagram, Linkedin, Mail, Twitter, Youtube } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
