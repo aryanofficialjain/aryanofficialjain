@@ -1,81 +1,99 @@
-# 👋 Hi, I'm Aryan Jain!
+Hi, I’m Aryan Jain
 
-🎮 Game Developer | 💻 Full Stack Developer | 🧠 Dreamer & Builder
+Unity XR Developer (AR / VR) | Game Developer | Full-Stack Engineer
 
----
+I specialize in building immersive AR and VR experiences using Unity, with a strong foundation in game development, interactive 3D systems, and mobile performance optimization. I focus on translating ideas into scalable, user-centric XR applications while supporting products with solid web and backend systems when required.
 
-## 🔧 Tech Stack
 
-### 🎮 Game Development
-- **Engines**: Unity (C#), Unreal Engine (learning)
-- **Build Platforms**: Android, WebGL (Itch.io)
+CORE FOCUS
 
-### 💻 Web & App Development
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB
-- **Others**: Firebase, REST APIs, JWT Auth
+- Unity-based AR and VR application development
+- XR interaction systems and immersive UX design
+- Mobile and standalone headset performance optimization
+- Gameplay systems, physics, animation, and player mechanics
+- End-to-end product development mindset (XR + Web + Backend)
 
----
 
-## 🚀 Project Highlights
+TECH STACK
 
-### 🎮 Games
+XR / GAME DEVELOPMENT
+- Engine: Unity (C#)
+- XR: AR Foundation, XR Interaction Toolkit
+- Platforms: Android, WebGL
+- Systems: Player Controllers, Physics, Animation, UI
+- 3D Tools: Blender (basics – modeling, props, optimization)
+- Version Control: Git, GitHub
 
-- **🧟 Nightmare**  
-  _3D horror survival game_ built in Unity, available on WebGL.  
-  👉 [Play on Itch.io](https://aryangames.itch.io)
+WEB & APP DEVELOPMENT (Supporting Skillset)
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js, MongoDB
+- APIs & Auth: REST APIs, JWT Authentication
+- Tools & Deployment: Firebase, Vercel
 
-- **⚔️ Kata Laga**  
-  _Fast-paced mobile action game_ available on Android.  
-  📱 Coming soon to Play Store.
 
-- **🧠 Forgetful**  
-  _2D platformer with puzzle elements_ — **Coming soon on Google Play!**
+PROJECT HIGHLIGHTS
 
----
+XR PROJECTS
 
-### 💻 Web Apps
+AR Custom Cars
+Augmented Reality car customization application built in Unity.
+- Real-time color and wheel customization
+- Interactive AR placement and scaling
+- AR-based car drifting interactions
+Tech: Unity, AR Foundation, C#
 
-- **🚗 Car Dealership App**  
-  A full-featured CRUD application for managing cars and bookings.  
-  Built using **MERN Stack + Tailwind CSS**.  
-  👉 [View Demo](http://aryanofficialjain.vercel.app/) *(Linked to portfolio)*  
-  📌 Features:
-  - Add/Edit/Delete Cars
-  - Search, Filter, Responsive UI
-  - Role-based access (Admin/User)
+VR Jewellery Store
+Virtual Reality shopping experience with controller-based interaction.
+- Pick and inspect jewellery in VR
+- Real-time pricing system
+- Integrated wallet and purchase flow
+Tech: Unity, XR Interaction Toolkit, C#
 
-- **💬 Chat Karo**  
-  A real-time group chat application with **Socket.io** and **MongoDB** backend.  
-  🔐 Features:
-  - Realtime messaging
-  - User authentication
-  - Typing indicators, emojis, dark mode  
-  👉 [GitHub Repo Coming Soon]
 
----
+GAME PROJECTS
 
-## 📹 My Game Dev Journey – On YouTube!
-🎥 I vlog my **daily life as a solo game developer** and share behind-the-scenes of building games.  
-Subscribe here 👉 [@aryanofficialjain](https://www.youtube.com/@aryanofficialjain)
+Nightmare
+Third-person action game set in a demon-filled world created using Unity Terrain.
+- Combat systems and player mechanics
+- Custom environment design
+Tech: Unity, C#, Terrain System
 
----
+Khata Laga
+2D casual mobile game where players protect a character from incoming spikes.
+- Fast-paced gameplay loop
+- Physics-based obstacles
+Tech: Unity, C#, 2D Physics
 
-## 🏹 My Mission
+Parinda
+2D arcade game inspired by Flappy Bird with an Indian aesthetic.
+- Score-based progression
+- Optimized for mobile performance
+Tech: Unity, C#, 2D Game Design
 
-I aim to build a **game studio** that puts **Indian culture and stories** on the world map 🌏 —  
-just like Japan did with anime and games. 🇮🇳
 
----
+WEB APPLICATIONS
 
-## 📫 Let's Connect!
+Car Becho
+Full-stack car dealership platform.
+- Authentication and role-based access
+- CRUD operations for listings
+Tech: React, Node.js, Express, MongoDB, Tailwind CSS
 
-- 🌐 **Portfolio**: [aryanofficialjain.vercel.app](http://aryanofficialjain.vercel.app)
-- 📷 **Instagram**: [@aryanofficialjain](https://www.instagram.com/aryanofficialjain)
-- 🐦 **Twitter**: [@aryanjain_dev](https://twitter.com/jaryanofficial)
-- 🎮 **Itch.io**: [@aryangames](https://aryangames.itch.io)
-- 🎥 **YouTube**: [@aryanofficialjain](https://www.youtube.com/@aryanofficialjain)
+Chat Karo
+Real-time chat application.
+- WebSocket-based messaging
+- Secure user authentication
+Tech: Next.js, Node.js, MongoDB, Socket.io
 
----
 
-> “Think different. Build bold. Dream bigger.”
+LONG-TERM VISION
+
+I aim to build immersive XR products and games that bring meaningful experiences to users while showcasing Indian creativity and technical excellence on a global scale.
+
+
+CONNECT
+
+Portfolio: https://itsaryanportfolio.vercel.app/
+LinkedIn: https://linkedin.com/in/aryanofficialjain
+X (Twitter): https://twitter.com/aryanofficia_l
+GitHub: https://github.com/aryanofficialjain
