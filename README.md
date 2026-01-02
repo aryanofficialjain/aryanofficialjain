@@ -48,6 +48,7 @@ Tooling and Practices
 
 
   Connect
+  
 	•	Portfolio: https://itsaryanportfolio.vercel.app
 	•	LinkedIn: https://linkedin.com/in/aryanofficialjain
 	•	X (Twitter): https://twitter.com/aryanofficia_l
