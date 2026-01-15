@@ -1,61 +1,103 @@
-## Hi, I’m Aryan Jain
+Hi, I’m Aryan Jain
 
-React Native App Developer | Cross-Platform Mobile Engineer | Product-Focused Builder
+AI Product Engineer | Full-Stack SaaS Builder | Mobile-First AI Systems Architect
 
-I build production-ready mobile applications using React Native, with a strong focus on clean architecture, performance, and long-term maintainability. My work emphasizes scalable codebases, smooth user experiences, and engineering decisions aligned with real product requirements.
+I design and ship production-grade AI SaaS platforms across web and mobile — from model pipelines and vector search to scalable cloud deployment and subscription systems.
 
-I enjoy contributing to real-world products, improving existing systems, and learning by building in public. I care deeply about code quality, developer experience, and user-centric design.
+I specialize in building RAG-powered AI products, intelligent automation platforms, and mobile-first AI SaaS apps that are monetizable, secure, fast, and designed to scale.
 
----
+⸻
 
-## Core Focus
+What I Build
+	•	AI SaaS platforms (B2B & B2C)
+	•	Mobile-first AI applications (Android & iOS)
+	•	RAG-based knowledge systems
+	•	AI copilots & automation engines
+	•	Subscription-ready SaaS backends
+	•	Cloud-native scalable APIs
 
-- Cross-platform mobile app development (Android & iOS)
-- React Native architecture and reusable component systems
-- Performance optimization and smooth UI rendering
-- API-driven mobile applications
-- Product-first engineering mindset
+⸻
 
----
+Core Engineering Focus
+	•	Production AI architecture
+	•	Retrieval-Augmented Generation (RAG)
+	•	Mobile & web SaaS systems
+	•	Secure auth & billing pipelines
+	•	High-availability deployments
+	•	Performance & scale engineering
 
-## Tech Stack
+⸻
 
-### Mobile Development
+AI & Data Stack
+	•	GPT-4 / GPT-4o / Claude / Gemini
+	•	Prompt pipelines & function calling
+	•	Embeddings & semantic search
+	•	Pinecone / Qdrant / Weaviate / FAISS
+	•	PostgreSQL (Serverless)
+	•	Redis / MongoDB / Supabase
 
-- React Native
-- Expo
-- JavaScript (ES6+)
-- React Hooks
-- Component-driven UI
-- Navigation (Stack, Tabs)
-- Local and secure storage
+⸻
 
-### State and Data
+Mobile Frontend (AI App Layer)
+	•	React Native
+	•	Expo
+	•	Secure mobile authentication
+	•	Offline-first storage
+	•	Push notifications
+	•	Mobile performance optimization
+	•	Production Play Store & App Store deployment
 
-- Context API
-- Redux (Basics)
-- REST API integration
-- Async data handling
+⸻
 
-### UI and UX
+Web Frontend
+	•	Next.js
+	•	React
+	•	Tailwind CSS
+	•	SaaS dashboards
+	•	Admin & billing panels
 
-- Responsive layouts
-- Custom animations and gestures
-- Accessibility-aware components
-- Pixel-perfect UI implementation
+⸻
 
-### Tooling and Practices
+SaaS Backend & APIs
+	•	Node.js
+	•	Express / Fastify
+	•	REST & API gateway architecture
+	•	Multi-tenant SaaS systems
+	•	Webhooks & event pipelines
 
-- Git and GitHub
-- Debugging and profiling
-- Clean code and modular architecture
-- Agile, iterative development
+⸻
 
----
+DevOps & Cloud Infrastructure
+	•	Docker & Docker Compose
+	•	GitHub Actions CI/CD
+	•	AWS (EC2, Lambda, S3, ECR, RDS)
+	•	Cloudflare CDN & security
+	•	Nginx reverse proxy
+	•	Auto-scaling production deployments
 
-## Connect
+⸻
 
-- Portfolio: https://itsaryanportfolio.vercel.app
-- LinkedIn: https://linkedin.com/in/aryanofficialjain
-- X (Twitter): https://twitter.com/aryanofficia_l
-- GitHub: https://github.com/aryanofficialjain
+Production-Ready Systems
+	•	Billing & subscriptions
+	•	Rate limiting & abuse protection
+	•	Logging & monitoring
+	•	Zero-downtime deployments
+	•	Secure secrets & config pipelines
+
+⸻
+
+Builder Philosophy
+
+Build real systems, not demos
+Engineer for scale, not hacks
+Ship fast, refactor clean
+Mobile-first AI products win markets
+
+⸻
+
+Connect
+
+Portfolio: https://itsaryanportfolio.vercel.app
+LinkedIn: https://linkedin.com/in/aryanofficialjain
+X: https://twitter.com/aryanofficia_l
+GitHub: https://github.com/aryanofficialjain
